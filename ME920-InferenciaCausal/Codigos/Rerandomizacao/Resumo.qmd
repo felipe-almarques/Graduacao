@@ -26,7 +26,7 @@ Na rerandomização, escolhemos $Z$ caso $M \leq a$.
 Podemos escolher $a$, fixando $p_a = P(M \leq a)$. A escolha de $p_a$ é feita considerando o $PRIV$.
 
 $$
-PRIV = 100 \times \left(1 - \frac{P(\chi^2_{K+2} \leq a)}{P(\chi^2_{K} \leq a)}\rigth)
+PRIV = 100 \times \left(1 - \frac{P(\chi^2_{K+2} \leq a)}{P(\chi^2_{K} \leq a)}\right)
 $$
 
 ## Análise sob rerandomização
